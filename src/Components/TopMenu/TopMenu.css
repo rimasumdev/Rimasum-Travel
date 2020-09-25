@@ -1,0 +1,9 @@
+.Header-logo {
+    height: 8vmin;
+    pointer-events: none;
+    filter: brightness(10) ;
+  }
+
+  .link-text {
+    color: white;
+  }

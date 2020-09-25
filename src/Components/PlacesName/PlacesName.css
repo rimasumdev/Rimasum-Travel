@@ -1,0 +1,46 @@
+  .link-text {
+    color: white;
+  }
+  .link-text:hover {
+    color: white;
+    text-decoration: none;
+  }
+  .bg {
+    color: white;
+    padding-top: 100px;
+  }
+  
+  .img-card1, .img-card2, .img-card3 {
+    width:200px;
+    height: 300px;
+    padding-top: 260px;
+    padding-left: 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(121, 116, 53);
+    cursor: pointer;
+  }
+  
+  .img-card1:hover , .img-card2:hover, .img-card3:hover{
+    border: 2px solid rgb(221, 207, 11);
+  }
+  
+  .img-card1 {
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(../../Image/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+  
+  .img-card2 {
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(../../Image/Sreemongol.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+  
+  .img-card3 {
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(../../Image/sundorbon.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }

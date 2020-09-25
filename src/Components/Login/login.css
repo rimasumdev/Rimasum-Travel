@@ -1,0 +1,17 @@
+.bg-login {
+    width: 400px;
+    color: white;
+    padding-top: 20px;
+  }
+  .line {
+    background: gray;
+    height: 1px;
+  }
+
+  .fb {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+}
